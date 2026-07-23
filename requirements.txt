@@ -1,0 +1,6 @@
+streamlit
+numpy
+cohere
+sentence-transformers
+langchain-text-splitters
+scikit-learn
